@@ -8,3 +8,6 @@ c=0
 while c<2:
   print(c)
   c+=1
+
+
+print("Me trying new things")
